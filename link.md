@@ -1,5 +1,5 @@
 
-### Native dialogs: https://silver-lokum-79b2ed.netlify.app/nativedialogs.html
+## Native dialogs: https://silver-lokum-79b2ed.netlify.app/nativedialogs.html
 
 ## Custom dialogs: https://silver-lokum-79b2ed.netlify.app/customdialogs.html
 
